@@ -70,7 +70,8 @@ if correct==True:
 else:
     print("Aww, you lost. Better luck next time!")
 
-        
+
+exit()        
     
                 
 
